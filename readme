@@ -1,1 +1,35 @@
 https:\/\/1a-1791.com\/video\/fwe2\/8c\/s8\/2\/-\/E\/G\/e\/-EGeA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=773005312-773064236
+
+Que debes hacer ? Un MOVIEPROXY PARA ELIMINAR ANUNCIOS DE STREAMWISH Y SUS LINKS ESPEJOS DE EMBEDS ,ETC , ARQUITECTURA
+
+El recorrido del stream: de la URL sucia al reproductor, sin pasar por un solo anuncio
+URL DE PELÍCULA
+El cliente pega el enlace del proveedor con scripts ofuscados y anuncios
+CORE MOVIEPROXY
+Descarga la página y desofusca los scripts empaquetados
+FILTRO DE ANUNCIOS
+Limpia el playlist m3u8 eliminando los bloques de publicidad
+STREAM LIMPIO
+Segmentos MP4/HLS sin anuncios listos para consumir
+PLAYER HLS
+hls.js lo reproduce en el navegador con barra de progreso 
+1
+INTERCEPCIÓN
+
+El proxy recibe la URL del proveedor y descarga su página tal como lo haría un navegador real.
+2
+DESOFUSCACIÓN
+
+Desempaqueta los scripts ofuscados (eval(function(p,a,c,k,e,d)...)) para leer la lógica real detrás del reproductor.
+3
+EXTRACCIÓN DEL M3U8
+
+Localiza el playlist real del video dentro del código y aísla sus variantes de calidad disponibles.
+4
+FILTRADO DE ANUNCIOS
+
+Elimina del playlist los bloques de publicidad, detectados por URL y por marcadores cue-out / cue-in.
+5
+ENTREGA LIMPIA
+
+Sirve el stream como MP4/HLS en vivo, sin descargar nada, directo al reproductor del navegador.
