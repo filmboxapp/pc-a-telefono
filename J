@@ -1,0 +1,1123 @@
+CUANDO VUELVAS A CASA
+
+STORYBOARD Y DIRECCIÓN CINEMATOGRÁFICA DETALLADA
+
+Duración: 2:02
+Formato: 16:9 cinematográfico
+Género: Fantasía, familiar, emocional
+Ambientación: México durante Día de Muertos
+Técnica: Animación 3D cinematográfica de largometraje familiar
+Referencia visual: Animación 3D de grandes películas familiares, con personajes estilizados, expresiones faciales muy naturales, materiales detallados, iluminación cinematográfica y escenarios fantásticos.
+Música: “El Latido de mi Corazón” — Luis Ángel Gómez Jaramillo
+Protagonista: Mateo, 10 años
+Abuelo: Don Ernesto, 70 años aprox.
+
+---
+
+1. DIRECCIÓN VISUAL GENERAL
+
+PERSONAJES
+
+Los personajes deben tener apariencia de animación 3D cinematográfica, evitando aspecto hiperrealista o fotográfico.
+
+Proporciones
+
+- Cabeza ligeramente más grande que en una persona real.
+- Ojos grandes pero anatómicamente creíbles.
+- Manos y pies estilizados.
+- Siluetas fáciles de reconocer.
+- Rostros suaves y expresivos.
+- Piel con textura sutil y natural.
+- Cabello compuesto por mechones 3D individuales, pero agrupados de manera estilizada.
+
+Rostros
+
+Las emociones deben poder entenderse incluso sin diálogo:
+
+- curiosidad;
+- alegría;
+- sorpresa;
+- nostalgia;
+- tristeza contenida;
+- cariño;
+- asombro.
+
+Evitar expresiones exageradas de caricatura.
+
+Materiales
+
+Utilizar:
+
+- piel con subsurface scattering sutil;
+- cabello con reflejos suaves;
+- ropa con textura visible;
+- madera ligeramente desgastada;
+- cerámica artesanal;
+- papel picado translúcido;
+- pétalos con pequeñas variaciones naturales;
+- velas con iluminación volumétrica.
+
+---
+
+2. ILUMINACIÓN
+
+La iluminación debe contar la historia.
+
+Mundo real
+
+Predominio de:
+
+- naranja;
+- ámbar;
+- amarillo cálido;
+- sombras profundas.
+
+Las velas deben producir iluminación realista sobre los rostros.
+
+Mundo mágico
+
+Agregar:
+
+- dorados;
+- magentas;
+- violetas;
+- azules nocturnos;
+- pequeños puntos de luz flotantes.
+
+No iluminar todo uniformemente.
+
+Debe existir contraste entre:
+
+luz cálida = recuerdos y familia
+
+azul/violeta = misterio y mundo mágico
+
+dorado = conexión entre ambos mundos
+
+---
+
+3. CÁMARA
+
+La cámara debe sentirse como una cámara cinematográfica real.
+
+Reglas
+
+No utilizar zoom digital constantemente.
+
+Preferir:
+
+- dolly;
+- travelling;
+- crane;
+- orbit;
+- tracking;
+- tilt;
+- pan;
+- push-in;
+- pull-back;
+- aerial;
+- cámara subjetiva;
+- rack focus.
+
+Profundidad de campo
+
+Usar profundidad de campo cinematográfica.
+
+Primer plano:
+
+- personaje nítido;
+- fondo desenfocado.
+
+Plano general:
+
+- mayor profundidad;
+- suficiente detalle para apreciar el escenario.
+
+Movimiento
+
+Los movimientos deben tener:
+
+inicio suave → aceleración natural → desaceleración suave.
+
+Evitar movimientos robóticos.
+
+La cámara debe tener una ligera sensación de peso.
+
+---
+
+4. LENTES Y PLANOS
+
+24 mm
+
+Para:
+
+- pueblos;
+- ciudades;
+- puentes;
+- grandes escenarios;
+- planos aéreos.
+
+35 mm
+
+Para:
+
+- personajes dentro del escenario;
+- travelling;
+- escenas familiares.
+
+50 mm
+
+Para:
+
+- conversaciones;
+- planos medios;
+- escenas emocionales.
+
+85 mm
+
+Para:
+
+- ojos;
+- rostros;
+- emociones;
+- fotografía;
+- detalles importantes.
+
+100 mm macro
+
+Para:
+
+- vela;
+- pétalos;
+- manos;
+- objetos de la ofrenda.
+
+---
+
+5. STORYBOARD DETALLADO
+
+TOMA 01 — 0:00–0:04
+
+IMAGEN
+
+Pantalla casi completamente oscura.
+
+Una pequeña vela aparece en el centro.
+
+La llama se mueve ligeramente por una corriente de aire.
+
+PLANO
+
+Macro extremo.
+
+LENTE
+
+100 mm macro.
+
+CÁMARA
+
+Comienza completamente estática.
+
+Después:
+
+slow dolly backward.
+
+ENFOQUE
+
+La llama comienza enfocada.
+
+El fondo aparece progresivamente.
+
+ILUMINACIÓN
+
+La llama es la principal fuente de luz.
+
+ANIMACIÓN
+
+La llama debe reaccionar al aire de manera natural.
+
+---
+
+TOMA 02 — 0:04–0:08
+
+La cámara continúa alejándose.
+
+Descubrimos que la vela pertenece a una enorme ofrenda.
+
+PLANO
+
+Plano detalle → plano general.
+
+CÁMARA
+
+Dolly out continuo.
+
+La cámara nunca corta.
+
+ELEMENTOS
+
+- cempasúchil;
+- velas;
+- fotografías;
+- pan de muerto;
+- papel picado;
+- objetos personales.
+
+ENFOQUE
+
+La vela permanece unos instantes en primer plano mientras el resto del altar aparece detrás.
+
+---
+
+TOMA 03 — 0:08–0:12
+
+La cámara continúa retrocediendo hasta revelar a Mateo sentado frente a la ofrenda.
+
+PLANO
+
+Plano general interior.
+
+CÁMARA
+
+Travelling hacia atrás.
+
+Después hace un pequeño desplazamiento lateral.
+
+COMPOSICIÓN
+
+Mateo queda ligeramente desplazado del centro.
+
+La fotografía del abuelo queda visible en el fondo.
+
+ANIMACIÓN
+
+Mateo respira lentamente.
+
+Sus ojos se mueven hacia la fotografía.
+
+---
+
+TOMA 04 — 0:12–0:16
+
+PLANO
+
+Primerísimo primer plano de Mateo.
+
+LENTE
+
+85 mm.
+
+CÁMARA
+
+Slow push-in.
+
+ENFOQUE
+
+Ojos completamente nítidos.
+
+Fondo muy desenfocado.
+
+DETALLE
+
+La llama de una vela se refleja en sus ojos.
+
+Mateo parpadea lentamente.
+
+---
+
+TOMA 05 — 0:16–0:20
+
+PLANO
+
+Plano detalle de la fotografía.
+
+CÁMARA
+
+Dolly in.
+
+TRANSICIÓN
+
+La mano de Mateo entra en cuadro y toca el marco.
+
+ILUMINACIÓN
+
+La vela produce un pequeño brillo sobre el vidrio.
+
+TEXTURA
+
+La fotografía debe parecer antigua, ligeramente desgastada.
+
+---
+
+TOMA 06 — 0:20–0:24
+
+Una flor cae.
+
+PLANO
+
+Plano detalle.
+
+CÁMARA
+
+Tilt down + tracking vertical.
+
+La cámara sigue exactamente el movimiento de la flor.
+
+PROFUNDIDAD
+
+El fondo permanece desenfocado.
+
+ANIMACIÓN
+
+El pétalo gira ligeramente en el aire.
+
+---
+
+TOMA 07 — 0:24–0:28
+
+La flor toca el suelo.
+
+Una pequeña partícula dorada aparece.
+
+Después otra.
+
+Después cientos.
+
+PLANO
+
+Low angle.
+
+CÁMARA
+
+Push-in hacia el punto de contacto.
+
+EFECTO
+
+Las partículas deben parecer pequeñas luces naturales, no partículas digitales exageradas.
+
+---
+
+TOMA 08 — 0:28–0:32
+
+Los pétalos comienzan a desplazarse.
+
+PLANO
+
+Plano general.
+
+CÁMARA
+
+Orbit 180° alrededor de Mateo.
+
+ANIMACIÓN
+
+El viento mueve:
+
+- ropa;
+- cabello;
+- papel picado;
+- pétalos.
+
+ILUMINACIÓN
+
+El camino comienza a iluminar el rostro de Mateo desde abajo.
+
+---
+
+TOMA 09 — 0:32–0:36
+
+Mateo observa el fenómeno.
+
+PLANO
+
+Plano medio.
+
+CÁMARA
+
+Push-in lento.
+
+EXPRESIÓN
+
+Primero sorpresa.
+
+Después curiosidad.
+
+Después una pequeña sonrisa.
+
+ENFOQUE
+
+Rack focus:
+
+Mateo → camino de flores.
+
+---
+
+TOMA 10 — 0:36–0:40
+
+Mateo camina hacia la puerta.
+
+PLANO
+
+Plano americano.
+
+CÁMARA
+
+Tracking backward.
+
+La cámara se mueve hacia atrás mientras Mateo avanza.
+
+MOVIMIENTO
+
+Su caminar debe ser natural.
+
+No debe parecer que está flotando.
+
+---
+
+TOMA 11 — 0:40–0:44
+
+Mateo abre la puerta.
+
+PLANO
+
+Over-the-shoulder.
+
+CÁMARA
+
+Dolly forward.
+
+La cámara atraviesa la puerta detrás de él.
+
+REVELACIÓN
+
+La calle normal se ha convertido en un camino de flores.
+
+Papel picado iluminado.
+
+Velas.
+
+Cempasúchil.
+
+Partículas doradas.
+
+---
+
+TOMA 12 — 0:44–0:48
+
+Mateo comienza a caminar.
+
+PLANO
+
+Tracking shot trasero.
+
+LENTE
+
+35 mm.
+
+CÁMARA
+
+Movimiento fluido a la altura de Mateo.
+
+FONDO
+
+Las casas comienzan a transformarse lentamente.
+
+---
+
+TOMA 13 — 0:48–0:52
+
+Un pétalo vuela directamente hacia la cámara.
+
+PLANO
+
+Plano detalle.
+
+CÁMARA
+
+Follow focus.
+
+El pétalo se acerca hasta cubrir todo el lente.
+
+TRANSICIÓN
+
+Whip/occlusion transition.
+
+---
+
+TOMA 14 — 0:52–0:56
+
+El pétalo se aleja.
+
+Ahora vemos el puente.
+
+PLANO
+
+Gran plano general.
+
+CÁMARA
+
+Comienza cerca de Mateo.
+
+Hace:
+
+pull-back + crane up.
+
+REVELACIÓN
+
+El puente parece extenderse hasta el horizonte.
+
+Miles de velas a ambos lados.
+
+---
+
+TOMA 15 — 0:56–1:00
+
+Mateo comienza a cruzar.
+
+PLANO
+
+Plano entero lateral.
+
+CÁMARA
+
+Tracking lateral.
+
+VELOCIDAD
+
+La cámara acompaña exactamente su velocidad.
+
+DETALLES
+
+Pétalos pasan frente al lente.
+
+Algunas luces flotan alrededor.
+
+---
+
+TOMA 16 — 1:00–1:04
+
+PLANO
+
+Aéreo.
+
+CÁMARA
+
+Crane up.
+
+Después:
+
+aerial pull-back.
+
+REVELACIÓN
+
+Descubrimos que el puente conecta con una ciudad gigantesca.
+
+Mateo queda como un pequeño punto en la composición.
+
+---
+
+TOMA 17 — 1:04–1:08
+
+PLANO
+
+Gran plano general cinematográfico.
+
+CÁMARA
+
+Aerial forward.
+
+La cámara vuela lentamente sobre la ciudad.
+
+ESCENARIO
+
+- edificios mexicanos fantásticos;
+- plazas;
+- campanarios;
+- puentes;
+- flores;
+- luces;
+- alebrijes;
+- habitantes.
+
+ILUMINACIÓN
+
+Azul nocturno combinado con luces doradas.
+
+---
+
+TOMA 18 — 1:08–1:12
+
+La cámara vuelve hacia Mateo.
+
+PLANO
+
+Plano medio.
+
+CÁMARA
+
+Orbit 360°.
+
+Mientras gira, el mundo aparece alrededor de él.
+
+EXPRESIÓN
+
+Asombro.
+
+Mateo gira ligeramente la cabeza siguiendo las cosas que descubre.
+
+---
+
+TOMA 19 — 1:12–1:16
+
+PLANO
+
+Over-the-shoulder.
+
+Mateo mira hacia la multitud.
+
+CÁMARA
+
+Dolly in.
+
+La multitud se mueve lentamente.
+
+Entre ellos aparece una silueta familiar.
+
+ENFOQUE
+
+Mateo desenfocado en primer plano.
+
+La silueta enfocada al fondo.
+
+Después se invierte:
+
+rack focus.
+
+---
+
+TOMA 20 — 1:16–1:20
+
+PLANO
+
+Plano detalle.
+
+Zapatos caminando.
+
+CÁMARA
+
+Tilt up.
+
+La cámara sigue lentamente el cuerpo.
+
+ILUMINACIÓN
+
+Contraluz dorado.
+
+No revelamos todavía el rostro.
+
+---
+
+TOMA 21 — 1:20–1:24
+
+PLANO
+
+Plano medio corto.
+
+Se muestran:
+
+- manos;
+- camisa;
+- chaleco;
+- sombrero.
+
+CÁMARA
+
+Tilt up lento.
+
+RITMO
+
+Más lento que las escenas anteriores.
+
+Estamos preparando el encuentro.
+
+---
+
+TOMA 22 — 1:24–1:28
+
+PLANO
+
+Primerísimo primer plano.
+
+Finalmente vemos a Don Ernesto.
+
+CÁMARA
+
+Push-in mínimo.
+
+EXPRESIÓN
+
+Sonrisa cálida.
+
+Ojos ligeramente húmedos.
+
+ILUMINACIÓN
+
+Rim light dorado alrededor del rostro.
+
+---
+
+TOMA 23 — 1:28–1:32
+
+Mateo corre hacia él.
+
+PLANO
+
+Plano general medio.
+
+CÁMARA
+
+Tracking lateral.
+
+Cuando llegan uno al otro:
+
+orbit suave.
+
+ANIMACIÓN
+
+El abrazo debe tener peso físico.
+
+La ropa se mueve ligeramente con el impacto.
+
+---
+
+TOMA 24 — 1:32–1:36
+
+PLANO
+
+Plano circular emocional.
+
+CÁMARA
+
+Orbit 360° lento.
+
+Mateo y Don Ernesto permanecen en el centro.
+
+FONDO
+
+Las luces crean pequeños círculos desenfocados.
+
+Pétalos flotan alrededor.
+
+RITMO
+
+Movimiento lento y elegante.
+
+---
+
+TOMA 25 — 1:36–1:40
+
+MONTAJE
+
+Recuerdos de la familia.
+
+TRANSICIONES
+
+Fotografía → recuerdo.
+
+Recuerdo → fotografía.
+
+Fotografía → nuevo recuerdo.
+
+CÁMARA
+
+Cada recuerdo utiliza un movimiento diferente:
+
+- dolly;
+- travelling;
+- orbit;
+- crane.
+
+ESTÉTICA
+
+Más cálida y ligeramente luminosa.
+
+---
+
+TOMA 26 — 1:40–1:44
+
+Don Ernesto entrega una flor a Mateo.
+
+PLANO
+
+Plano detalle de las manos.
+
+LENTE
+
+85–100 mm.
+
+CÁMARA
+
+Dolly in.
+
+ENFOQUE
+
+Manos → flor → rostro de Mateo.
+
+ILUMINACIÓN
+
+Luz dorada sobre ambos.
+
+---
+
+TOMA 27 — 1:44–1:49
+
+PLANO
+
+Primeros planos alternados.
+
+Mateo mira al abuelo.
+
+Corte.
+
+Abuelo mira a Mateo.
+
+Corte.
+
+Mateo sonríe.
+
+CÁMARA
+
+Push-in extremadamente lento.
+
+ACTUACIÓN
+
+No deben llorar exageradamente.
+
+La emoción debe sentirse mediante los ojos y pequeñas expresiones.
+
+---
+
+TOMA 28 — 1:49–1:54
+
+Mateo comienza a regresar.
+
+PLANO
+
+Plano general.
+
+CÁMARA
+
+Pull-back.
+
+Mateo camina hacia la cámara.
+
+Después la cámara comienza a alejarse de él.
+
+FONDO
+
+Don Ernesto queda cada vez más lejos.
+
+Los pétalos comienzan a elevarse.
+
+---
+
+TOMA 29 — 1:54–1:59
+
+PLANO
+
+Primer plano.
+
+Mateo despierta.
+
+CÁMARA
+
+Push-in al rostro.
+
+Después:
+
+pull-back continuo.
+
+Descubrimos nuevamente la habitación.
+
+ILUMINACIÓN
+
+Ahora entra luz azul y naranja del amanecer.
+
+DETALLE
+
+Mateo tiene la flor en la mano.
+
+Mira hacia la fotografía.
+
+---
+
+TOMA 30 — 1:59–2:02
+
+PLANO
+
+Gran plano aéreo.
+
+CÁMARA
+
+La cámara sale por la ventana.
+
+Crane up.
+
+Después continúa:
+
+aerial pull-back.
+
+La casa se hace pequeña.
+
+El pueblo aparece completo.
+
+La noche comienza a convertirse en amanecer.
+
+FINAL
+
+Fundido a negro.
+
+CUANDO VUELVAS A CASA
+
+“Mientras alguien te recuerde, nunca te vas.”
+
+---
+
+6. REGLAS DE CONTINUIDAD
+
+Estas reglas deben mantenerse en TODAS las generaciones:
+
+MATEO
+
+Nunca cambiar:
+
+- rostro;
+- color de piel;
+- cabello;
+- edad aparente;
+- proporciones;
+- ropa;
+- zapatos.
+
+DON ERNESTO
+
+Nunca cambiar:
+
+- rostro;
+- bigote;
+- cabello;
+- sombrero;
+- ropa;
+- edad aparente;
+- proporciones.
+
+MUNDO
+
+Mantener:
+
+- arquitectura mexicana;
+- cempasúchil;
+- veladoras;
+- papel picado;
+- iluminación cálida;
+- fantasía colorida;
+- materiales 3D detallados.
+
+CÁMARA
+
+Nunca utilizar movimientos bruscos sin intención narrativa.
+
+Cada movimiento debe tener una razón:
+
+Dolly in → emoción.
+Pull back → revelación o separación.
+Orbit → conexión o descubrimiento.
+Crane up → grandeza.
+Tracking → acompañamiento.
+Aerial → escala.
+Push-in → importancia emocional.
+Rack focus → dirigir la atención.
+
+---
+
+7. REGLA DE ANIMACIÓN
+
+Todos los movimientos deben tener:
+
+anticipación → acción → desaceleración.
+
+Los personajes deben:
+
+- respirar;
+- parpadear;
+- mover ligeramente los ojos;
+- reaccionar al entorno;
+- tener movimientos secundarios en ropa y cabello;
+- interactuar físicamente con los objetos.
+
+El viento debe afectar:
+
+- pétalos;
+- papel picado;
+- cabello;
+- ropa;
+- llamas.
+
+Nada debe permanecer completamente estático.
+
+---
+
+8. REGLA DE COMPOSICIÓN
+
+Utilizar:
+
+- regla de tercios;
+- líneas guía;
+- profundidad en primer plano, medio y fondo;
+- siluetas claras;
+- espacios negativos en momentos emocionales;
+- simetría únicamente para momentos importantes.
+
+Mateo debe destacar visualmente aunque el escenario sea enorme.
+
+---
+
+9. REGLA DE TRANSICIONES
+
+No utilizar transiciones genéricas de editor.
+
+Preferir transiciones producidas dentro de la escena:
+
+Pétalo frente al lente → nueva escena.
+
+Puerta → nuevo mundo.
+
+Fotografía → recuerdo.
+
+Movimiento de cámara → siguiente escenario.
+
+Luz de vela → amanecer.
+
+Esto permitirá que todo parezca parte de una misma película.
+
+---
+
+10. OBJETIVO VISUAL FINAL
+
+El resultado debe sentirse como un cortometraje 3D mexicano de fantasía producido para cine familiar:
+
+- personajes estilizados y expresivos;
+- escenarios ricos en detalles;
+- iluminación cinematográfica;
+- cámara dinámica;
+- profundidad de campo;
+- movimientos naturales;
+- composición profesional;
+- continuidad absoluta;
+- emoción familiar;
+- Día de Muertos como elemento central;
+- fantasía sin perder la identidad mexicana.
+
+La prioridad será:
+
+HISTORIA → PERSONAJES → EMOCIÓN → CÁMARA → ILUMINACIÓN → ESPECTÁCULO.
