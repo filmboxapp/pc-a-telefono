@@ -1,0 +1,42 @@
+¡Ah, perfecto! Ya te entendí. Lo que pasa es que abriste el programa claude, pero como todavía no le has dicho a Windows cuál es tu clave oficial de Anthropic, el programa se queda esperando o te da un error porque no tiene el "cerebro" conectado.
+Como tu clave es oficial de Anthropic (sk-ant-...), no necesitamos los comandos de OpenRouter que te di antes. Vamos a configurarlo de la forma oficial en un minuto.
+Sigue estos pasos exactos:
+
+Paso 1: Salir de donde estás
+
+Si tienes el programa abierto y no te deja hacer nada, escribe lo siguiente y presiona Enter para cerrarlo y volver a la terminal normal de Windows:
+text
+/exit
+Usa el código con precaución.
+(Si no te deja escribir nada, simplemente cierra esa ventana negra/azul por completo y abre una nueva ventana de PowerShell normal).
+
+Paso 2: Conectar tu clave de Claude Oficial
+
+En tu ventana de PowerShell limpia, copia y pega el siguiente comando, pero cambia TU_CLAVE_SK_ANT por la clave larga de tu bloc de notas (mantén las comillas):
+powershell
+[Environment]::SetEnvironmentVariable("ANTHROPIC_API_KEY", "TU_CLAVE_SK_ANT", "User")
+Usa el código con precaución.
+(Presiona Enter. No va a salir ningún mensaje abajo, eso significa que Windows ya la guardó correctamente).
+
+Paso 3: Limpiar configuraciones anteriores (Por si acaso)
+
+Como antes intentamos poner los comandos de OpenRouter, vamos a borrarlos para que no confundan al programa. Copia y pega estos dos comandos, uno por uno, presionando Enter después de cada uno:
+powershell
+[Environment]::SetEnvironmentVariable("ANTHROPIC_BASE_URL", $null, "User")
+Usa el código con precaución.
+powershell
+[Environment]::SetEnvironmentVariable("ANTHROPIC_AUTH_TOKEN", $null, "User")
+Usa el código con precaución.
+
+Paso 4: Reiniciar la terminal
+
+Cierra por completo la ventana de PowerShell dándole a la X de arriba a la derecha. Esto es obligatorio para que Windows aplique la clave que acabamos de guardar.
+
+Paso 5: ¡A probarlo!
+
+1. Vuelve a abrir PowerShell.
+2. Escribe la palabra mágica para iniciar el programa:powershell
+claude
+Usa el código con precaución.
+Ahora, al iniciar, Claude Code leerá automáticamente tu clave sk-ant-... guardada en Windows. Debería mostrarte una pantalla de bienvenida limpia y un espacio abajo donde ya puedes empezar a pedirle cosas sobre tus códigos o archivos.
+¿Qué te aparece ahora en pantalla al escribir claude tras haber reiniciado la ventana? ¿Te dio la bienvenida o te pide hacer algún paso extra?
